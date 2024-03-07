@@ -1,0 +1,93 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "title": "t-shirt-with tape details",
+         "createdAt": "2008-4-1-15-02-32",
+         "img": "/img/products/image7.png",
+         "slug": "t-shirt-with-tape-details",
+         "price": 120,
+         "discount": 0,
+         "rate": 4,
+         "saleCount": 0
+      },
+      {
+         "id": 2,
+         "title": "skinny fit jeans",
+         "createdAt": "2008-4-1-15-02-39",
+         "img": "/img/products/image8.png",
+         "slug": "skinny-fit-jeans",
+         "price": 260,
+         "discount": 20,
+         "rate": 3,
+         "saleCount": 0
+      },
+      {
+         "id": 3,
+         "title": "checkered shirt",
+         "createdAt": "2008-4-1-15-02-36",
+         "img": "/img/products/image9.png",
+         "slug": "checkered-shirt",
+         "price": 180,
+         "discount": 0,
+         "rate": 5,
+         "saleCount": 0
+      },
+      {
+         "id": 4,
+         "title": "sleeve striped t-shirt",
+         "createdAt": "2008-4-1-15-02-35",
+         "img": "/img/products/image10.png",
+         "slug": "sleeve-striped-t-shirt",
+         "price": 160,
+         "discount": 50,
+         "rate": 5,
+         "saleCount": 0
+      },
+      {
+         "id": 5,
+         "title": "t-shirt with tape details",
+         "createdAt": "2008-4-1-15-02-32",
+         "img": "/img/products/image7.png",
+         "slug": "t-shirt-with-tape-details",
+         "price": 320,
+         "discount": 0,
+         "rate": 4,
+         "saleCount": 0
+      },
+      {
+         "id": 6,
+         "title": "t-shirt with tape details",
+         "createdAt": "2008-4-1-15-02-31",
+         "img": "/img/products/image7.png",
+         "slug": "t-shirt-with-tape-details",
+         "price": 310,
+         "discount": 50,
+         "rate": 4,
+         "saleCount": 0
+      },
+      {
+         "id": 7,
+         "title": "t-shirt with tape details",
+         "createdAt": "2008-4-1-15-02-34",
+         "img": "/img/products/image7.png",
+         "slug": "t-shirt-with-tape-details",
+         "price": 390,
+         "discount": 70,
+         "rate": 4,
+         "saleCount": 0
+      },
+      {
+         "id": 8,
+         "title": "t-shirt with tape details",
+         "createdAt": "2008-4-1-15-04-55",
+         "img": "/img/products/image7.png",
+         "slug": "t-shirt-with-tape-details",
+         "price": 120,
+         "discount": 0,
+         "rate": 4,
+         "saleCount": 0
+      }
+   ],
+   "comments": [{}]
+}
