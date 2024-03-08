@@ -4,6 +4,7 @@
    "description": "",
    "main": "index.js",
    "scripts": {
+      "dev" : "npx json-server db.json -p 8080",
       "start": "node server.js"
    },
    "author": "",

@@ -87,6 +87,50 @@
          "discount": 0,
          "rate": 4,
          "saleCount": 0
+      },
+      {
+         "id": 9,
+         "title": "vertical striped shirt",
+         "createdAt": "2008-3-1-15-04-55",
+         "img": "/img/products/image77.png",
+         "slug": "vertical-striped-shirt",
+         "price": 232,
+         "discount": 20,
+         "rate": 5,
+         "saleCount": 20
+      },
+      {
+         "id": 10,
+         "title": "courage graphic t-shirt",
+         "createdAt": "2007-3-3-15-04-55",
+         "img": "/img/products/image88.png",
+         "slug": "courage-graphic-t-shirt",
+         "price": 145,
+         "discount": 0,
+         "rate": 4,
+         "saleCount": 18
+      },
+      {
+         "id": 11,
+         "title": "loose fit bermuda shorts",
+         "createdAt": "2007-3-3-15-04-55",
+         "img": "/img/products/image99.png",
+         "slug": "loose-fit-bermuda-shorts",
+         "price": 80,
+         "discount": 0,
+         "rate": 3,
+         "saleCount": 14
+      },
+      {
+         "id": 12,
+         "title": "faded skinny jeans",
+         "createdAt": "2007-3-3-15-04-55",
+         "img": "/img/products/image110.png",
+         "slug": "faded-skinny-jeans",
+         "price": 210,
+         "discount": 0,
+         "rate": 4,
+         "saleCount": 9
       }
    ],
    "comments": [{}]
