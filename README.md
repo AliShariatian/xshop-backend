@@ -1,6 +1,9 @@
--  # [Json Server Github](https://github.com/typicode/json-server/tree/v0)
+# XShop Back-end
 
--  # [Json Server NPM](https://www.npmjs.com/package/json-server)
+-  ## [Json Server Github](https://github.com/typicode/json-server/tree/v0)
+
+-  ## [Json Server NPM, Last Version](https://www.npmjs.com/package/json-server)
+-  ## [Json Server NPM, Version 0.17.3 (Used in this project) ](https://www.npmjs.com/package/json-server/v/0.17.3)
 
 ---
 
@@ -31,9 +34,9 @@ server.listen(3000, () => {
    console.log("JSON Server is running");
 });
 ```
-- In `package.json` file and in `scripts` section, add a new key and value with key: `start` and value: `node server.js`.
 
-- Write `liara deploy` and write port `3000` in cmd.
+-  In `package.json` file and in `scripts` section, add a new key and value with key: `start` and value: `node server.js`.
 
-- Finish.
-  
+-  Write `liara deploy` and write port `3000` in cmd.
+
+-  Finish.
