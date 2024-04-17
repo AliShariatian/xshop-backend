@@ -3,23 +3,23 @@
       {
          "id": 1,
          "title": "one life graphic t-shirt",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-1-15-04-51",
          "imgs": ["/img/products/t-shirt/one-life-graphic-t-shirt/1.png", "/img/products/t-shirt/one-life-graphic-t-shirt/2.png", "/img/products/t-shirt/one-life-graphic-t-shirt/3.png"],
-         "slug": "one-life-graphic-t-shirt",
+         "slug": "/one-life-graphic-t-shirt",
          "category": "t-shirt",
          "rate": 3.9,
          "price": 300,
          "discount": 40,
          "saleCount": 1,
          "quantityInStock": 4,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Dark Olive Green", "Alice Blue"],
          "size": ["large", "x-large"],
          "description": "This t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 2,
          "title": "Vans SK8-Hi Tapered Stackform",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-2-15-04-51",
          "imgs": [
             "/img/products/shoe/vans-sk8-hi-tapered-stackform/1.jpg",
             "/img/products/shoe/vans-sk8-hi-tapered-stackform/2.jpg",
@@ -27,14 +27,14 @@
             "/img/products/shoe/vans-sk8-hi-tapered-stackform/4.jpg",
             "/img/products/shoe/vans-sk8-hi-tapered-stackform/5.jpg"
          ],
-         "slug": "vans-sk8-hi-tapered-stackform",
+         "slug": "/vans-sk8-hi-tapered-stackform",
          "category": "shoe",
          "rate": 4.3,
          "price": 64.99,
          "discount": 0,
          "saleCount": 12,
          "quantityInStock": 4,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["White", "Black"],
          "size": ["36", "37", "38", "44"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
@@ -49,21 +49,21 @@
             "/img/products/shoe/adidas-xz8000/4.jpg",
             "/img/products/shoe/adidas-xz8000/5.jpg"
          ],
-         "slug": "adidas-xz8000",
+         "slug": "/adidas-xz8000",
          "category": "shoe",
          "rate": 3.1,
          "price": 142.99,
          "discount": 0,
          "saleCount": 9,
          "quantityInStock": 4,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Cornsilk"],
          "size": ["37", "38", "44", "46"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 4,
          "title": "Puma Blaze Of Glory Energy",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-4-15-04-51",
          "imgs": [
             "/img/products/shoe/puma-blaze-of-glory-energy/1.jpg",
             "/img/products/shoe/puma-blaze-of-glory-energy/2.jpg",
@@ -72,21 +72,21 @@
             "/img/products/shoe/puma-blaze-of-glory-energy/5.jpg",
             "/img/products/shoe/puma-blaze-of-glory-energy/6.jpg"
          ],
-         "slug": "puma-blaze-of-glory-energy",
+         "slug": "/puma-blaze-of-glory-energy",
          "category": "shoe",
          "rate": 4.8,
          "price": 91.99,
          "discount": 0,
          "saleCount": 5,
          "quantityInStock": 4,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Multi Color"],
          "size": ["39", "41", "44", "46"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 5,
          "title": "adidas NMD_R1 Primeblue",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-5-15-04-51",
          "imgs": [
             "/img/products/shoe/adidas-nmd_r1-primeblue/1.jpg",
             "/img/products/shoe/adidas-nmd_r1-primeblue/2.jpg",
@@ -95,21 +95,21 @@
             "/img/products/shoe/adidas-nmd_r1-primeblue/5.jpg",
             "/img/products/shoe/adidas-nmd_r1-primeblue/6.jpg"
          ],
-         "slug": "adidas-nmd_r1-primeblue",
+         "slug": "/adidas-nmd_r1-primeblue",
          "category": "shoe",
          "rate": 4.3,
          "price": 164.95,
          "discount": 0,
          "saleCount": 7,
          "quantityInStock": 30,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Black"],
          "size": ["44", "46"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 6,
          "title": "adidas Climacool 1",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-6-15-04-51",
          "imgs": [
             "/img/products/shoe/adidas-climacool-1/1.jpg",
             "/img/products/shoe/adidas-climacool-1/2.jpg",
@@ -118,21 +118,21 @@
             "/img/products/shoe/adidas-climacool-1/5.jpg",
             "/img/products/shoe/adidas-climacool-1/6.jpg"
          ],
-         "slug": "adidas-climacool-1",
+         "slug": "/adidas-climacool-1",
          "category": "shoe",
          "rate": 3.6,
          "price": 154.95,
          "discount": 0,
          "saleCount": 12,
          "quantityInStock": 19,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Ghost White"],
          "size": ["44", "46"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 7,
          "title": "Converse Run Star Motion Hi",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-7-15-04-51",
          "imgs": [
             "/img/products/shoe/converse-run-star-motion-hi/1.jpg",
             "/img/products/shoe/converse-run-star-motion-hi/2.jpg",
@@ -141,21 +141,21 @@
             "/img/products/shoe/converse-run-star-motion-hi/5.jpg",
             "/img/products/shoe/converse-run-star-motion-hi/6.jpg"
          ],
-         "slug": "converse-run-star-motion-hi",
+         "slug": "/converse-run-star-motion-hi",
          "category": "shoe",
          "rate": 2.6,
          "price": 143,
          "discount": 10,
          "saleCount": 6,
          "quantityInStock": 9,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Multi Color"],
          "size": ["42", "44", "45"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 8,
          "title": "Sixth June Carpenter Pants",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-8-15-04-51",
          "imgs": [
             "/img/products/trousers/sixth-june-carpenter-pants/1.jpg",
             "/img/products/trousers/sixth-june-carpenter-pants/2.jpg",
@@ -164,21 +164,21 @@
             "/img/products/trousers/sixth-june-carpenter-pants/5.jpg",
             "/img/products/trousers/sixth-june-carpenter-pants/6.jpg"
          ],
-         "slug": "sixth-june-carpenter-pants",
+         "slug": "/sixth-june-carpenter-pants",
          "category": "trousers",
          "rate": 2.6,
          "price": 57.95,
          "discount": 65,
          "saleCount": 6,
          "quantityInStock": 9,
-         "colors": ["#4F4631", "#314F4A", "#31344F"],
+         "colors": ["Floral White", "Dim Grey"],
          "size": ["small", "medium", "large", "x-large"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       },
       {
          "id": 9,
          "title": "Sixth June Tactical Pants",
-         "createdAt": "2007-3-3-15-04-51",
+         "createdAt": "2007-3-9-15-04-51",
          "imgs": [
             "/img/products/trousers/sixth-june-tactical-pants/1.jpg",
             "/img/products/trousers/sixth-june-tactical-pants/2.jpg",
@@ -187,14 +187,14 @@
             "/img/products/trousers/sixth-june-tactical-pants/5.jpg",
             "/img/products/trousers/sixth-june-tactical-pants/6.jpg"
          ],
-         "slug": "sixth-june-tactical-pants",
+         "slug": "/sixth-june-tactical-pants",
          "category": "trousers",
          "rate": 3.6,
          "price": 92.95,
          "discount": 50,
          "saleCount": 6,
          "quantityInStock": 9,
-         "colors": ["#000", "#314F4A", "#31344F"],
+         "colors": ["Dim Grey", "Black"],
          "size": ["large", "x-large"],
          "description": "This which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
       }
